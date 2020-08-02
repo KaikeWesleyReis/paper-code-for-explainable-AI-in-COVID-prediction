@@ -15,6 +15,13 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 - Kaike Wesley Reis: [LinkedIn](https://www.linkedin.com/in/kaike-wesley-reis/) and [Lattes](http://lattes.cnpq.br/0566221555180240)
 - Karla Patricia Oliveira-Esquerre: [Lattes](http://lattes.cnpq.br/1956096628005272)
 
+## Best selected model info
+- **Type of dataset**: oversampled
+- **AI method**: Random Forest
+- **Overall parameters (including hyperparameters)**:
+
+  `{'bootstrap':True,'ccp_alpha':0.0,'class_weight':'balanced_subsample','criterion':'gini','max_depth':29, 'max_features':'log2','max_leaf_nodes':None,'max_samples':None,     'min_impurity_decrease':0.0,'min_impurity_split':None,'min_samples_leaf':1,'min_samples_split':2,'min_weight_fraction_leaf':0.0,'n_estimators':1000,'n_jobs':None,         'oob_score':False,'random_state':1206,'verbose':0,'warm_start':True}`
+
 ## Repository info
 - The `.ipynb` was used to developed the source material related to this paper.
 - The numbers at the beginning of each notebook represent the pipeline order:
