@@ -15,6 +15,8 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 ## Overall AI framework
 ![AI pipeline](https://user-images.githubusercontent.com/32513366/89131523-c9692f80-d4e3-11ea-8738-9405275f972e.png)
 
+**Disclaimer**: The supplementary material provided in this repository contains extra analysis and discussions compared to the text of the article. This decision was made to make the results presented more focused and objective.
+
 ## Best selected model info
 - **Type of dataset**: oversampled
 - **AI method**: Random Forest
@@ -49,8 +51,3 @@ joblib       | 0.14.1
 shap         | 0.34.0
 umap         | 0.4.6
 imbalanced-learn  | 0.7.0
-
-
-
-
-
