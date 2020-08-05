@@ -15,7 +15,7 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 ## Overall AI framework
 ![AI pipeline](https://user-images.githubusercontent.com/32513366/89131523-c9692f80-d4e3-11ea-8738-9405275f972e.png)
 
-**Disclaimer**: The supplementary material provided in this repository contains extra analysis and discussions compared to the text of the article. This decision was made to make the results presented more focused and objective.
+**Disclaimer**: The supplementary material provided in this repository contains extra analysis and discussions compared to the paper discussion. This decision was made to make the results presented more focused and objective for the paper.
 
 ## Best selected model info
 - **Type of dataset**: oversampled
