@@ -9,7 +9,7 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 - **Journal Impact Factor**:
 
 ## Authors info
-- Kaike Wesley Reis: [LinkedIn](https://www.linkedin.com/in/kaike-wesley-reis/) and [Lattes](http://lattes.cnpq.br/0566221555180240)
+- Kaike Wesley Reis (**corresponding author**): [LinkedIn](https://www.linkedin.com/in/kaike-wesley-reis/) and [Lattes](http://lattes.cnpq.br/0566221555180240)
 - Karla Patricia Oliveira-Esquerre: [LinkedIn](https://www.linkedin.com/in/karla-esquerre-5a1b2234/) and [Lattes](http://lattes.cnpq.br/1956096628005272)
 
 ## Overall AI framework
