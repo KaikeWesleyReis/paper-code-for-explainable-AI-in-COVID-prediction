@@ -10,7 +10,7 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 
 ## Authors info
 - Kaike Wesley Reis: [LinkedIn](https://www.linkedin.com/in/kaike-wesley-reis/) and [Lattes](http://lattes.cnpq.br/0566221555180240)
-- Karla Patricia Oliveira-Esquerre: [Lattes](http://lattes.cnpq.br/1956096628005272)
+- Karla Patricia Oliveira-Esquerre: [LinkedIn](https://www.linkedin.com/in/karla-esquerre-5a1b2234/) and [Lattes](http://lattes.cnpq.br/1956096628005272)
 
 ## Overall AI framework
 ![AI pipeline](https://user-images.githubusercontent.com/32513366/89131523-c9692f80-d4e3-11ea-8738-9405275f972e.png)
