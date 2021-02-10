@@ -1,8 +1,0 @@
-;TP;FP;TN;FN
-Logistic Regression;10;14;64;2
-SVM;10;17;61;2
-Random Forest;6;5;73;6
-Gradient Boosting;5;2;76;7
-XGBoost;4;4;74;8
-Dummy Most Frequent;0;0;78;12
-Dummy Stratified;3;12;66;9
