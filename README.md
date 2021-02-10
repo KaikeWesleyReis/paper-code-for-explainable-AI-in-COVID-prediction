@@ -18,11 +18,30 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 **Disclaimer**: The supplementary material provided in this repository contains extra analysis and discussions compared to the paper discussion. This decision was made to make the results presented more focused and objective for the paper.
 
 ## Best selected model info
-- **Type of dataset**: oversampled
-- **AI method**: Random Forest
+- **AI mmodel**: Random Forest
 - **Overall parameters (including hyperparameters)**:
-
-  `{'bootstrap':True,'ccp_alpha':0.0,'class_weight':'balanced_subsample','criterion':'gini','max_depth':29, 'max_features':'log2','max_leaf_nodes':None,'max_samples':None,     'min_impurity_decrease':0.0,'min_impurity_split':None,'min_samples_leaf':1,'min_samples_split':2,'min_weight_fraction_leaf':0.0,'n_estimators':1000,'n_jobs':None,         'oob_score':False,'random_state':1206,'verbose':0,'warm_start':True}`
+ 
+  ```
+  {'bootstrap': True,
+  'ccp_alpha': 0.0,
+  'class_weight': 'balanced_subsample',
+  'criterion': 'gini',
+  'max_depth': 21,
+  'max_features': 'sqrt',
+  'max_leaf_nodes': None,
+  'max_samples': None,
+  'min_impurity_decrease': 0.0,
+  'min_impurity_split': None,
+  'min_samples_leaf': 1,
+  'min_samples_split': 2,
+  'min_weight_fraction_leaf': 0.0,
+  'n_estimators': 1000,
+  'n_jobs': None,
+  'oob_score': False,
+  'random_state': 1206,
+  'verbose': 0,
+  'warm_start': True}
+  ```
 
 ## Repository info
 - The `.ipynb` was used to developed the source material related to this paper.
@@ -48,6 +67,6 @@ skopt        | 0.8.dev0
 xgboost      | 1.1.1
 scipy        | 1.4.1
 joblib       | 0.14.1
-shap         | 0.34.0
+shap         | 0.38.0
 umap         | 0.4.6
 imbalanced-learn  | 0.7.0
