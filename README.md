@@ -18,7 +18,7 @@ An **Open Source**  code released to increase reproducibility in academic and pr
 **Disclaimer**: The supplementary material provided in this repository contains extra analysis and discussions compared to the paper discussion. This decision was made to make the results presented more focused and objective for the paper.
 
 ## Best selected model info
-- **AI mmodel**: Random Forest
+- **AI model**: Random Forest
 - **Overall parameters (including hyperparameters)**:
  
   ```
