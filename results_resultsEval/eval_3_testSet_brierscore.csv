@@ -1,0 +1,7 @@
+Brier Score,1 - Brier Score,Model
+0.139,0.861,LRE
+0.104,0.896,SVM
+0.073,0.927,RFC
+0.091,0.909,BST
+0.081,0.919,XGB
+0.422,0.578,DST
