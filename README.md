@@ -1,4 +1,4 @@
-# Code results for explainable AI paper
+# Reproducible Paper - Diagnosis of patients with blood cell count for COVID-19: An explainable artificial intelligence approach
 An **Open Source**  code released to increase reproducibility in academic and professional research.
 
 ## Paper info
