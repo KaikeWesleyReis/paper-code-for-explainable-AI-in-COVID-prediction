@@ -2,11 +2,11 @@
 An **Open Source**  code released to increase reproducibility in academic and professional research.
 
 ## Paper info
-- **Title**:
-- **Access Link**:
-- **DOI**:
-- **Journal**:
-- **Journal Impact Factor**:
+- **Title**: Diagnosis of patients with blood cell count for COVID-19: An explainable artificial intelligence approach
+- **Access Link**: [here](http://www.jhi-sbis.saude.ws/ojs-jhi/index.php/jhi-sbis/article/view/779)
+- **Journal**: Journal of Health Informatics (JHI)
+- **ISSN**: 2175-4411
+- **Journal Impact Factor (QUALIS)**: *B5* for Computer Science and Engineering
 
 ## Authors info
 - Kaike Wesley Reis (**corresponding author**): [LinkedIn](https://www.linkedin.com/in/kaike-wesley-reis/) and [Lattes](http://lattes.cnpq.br/0566221555180240)
